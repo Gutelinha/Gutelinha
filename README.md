@@ -3,19 +3,19 @@
 **`Desenvolvedor de Software`**
 
 Me chamo Augusto Lescura Pinto, tenho 22 anos e nasci em Cachoeira Paulista - SP. Concluí o meu ensino médio no Colegio Técnico de Lorena (Cotel - USP), com o curso técnico em química. Atualmente, curso Bacharelado em Sistemas de Informação. Gosto muito de tecnologia e me interesso pricipalmente pela âmbito do Front-end. Tenho alguns hobbies como, jogar futebol, jogar video games, fazer academia e outros. Hoje, estou morando em São Carlos concluindo meu ensino superior, o qual tem previsão de formação em 06/2026. Por fim, tenho 2 pets que amo muito: Cookie (coelho), Sami (cachorra).
-
+<p align="left">
     <a href="https://github.com/Gutelinha?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Gutelinha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Gutelinha?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Gutelinha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
