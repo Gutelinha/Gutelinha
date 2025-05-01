@@ -15,7 +15,7 @@ Me chamo Augusto Lescura Pinto, tenho 22 anos e nasci em Cachoeira Paulista - SP
          <img 
             alt="LinkedIn" 
             title="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte--se-0077B5?style=for-the-badge&logo=linkedin&labelColor=004182"
         />
     </a>
     <a href="https://github.com/Gutelinha?tab=repositories&sort=stargazers">
